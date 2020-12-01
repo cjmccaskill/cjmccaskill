@@ -1,3 +1,5 @@
+<a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+
 ### Hi there 👋
 
 <!--
