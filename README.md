@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+Let introduce myself. I am a positive, energetic, and results-oriented Web Developer possessing comprehensive experience successfully meeting and exceeding goals within remote team environments. Utilizing strong attention to detail on every line of code, every unit test, and every commit message. Demonstrated history clearly communicating complex ideas to diverse technical and non-technical audiences. Lifelong learner with a growth mindset who is passionate about designing great user experiences and building truly great applications for the web. Meticulous self-starter with a strong work ethic who consistently meets deadlines while managing multiple projects.
+
 <!--
 **cjmccaskill/cjmccaskill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
