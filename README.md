@@ -2,9 +2,9 @@
 
 Welcome ot my public profile! This includes examples of [Certificates of Completions](https://www.learnenough.com/certificates/cjmccaskill from [Learn Enough](https://www.learnenough.com/). They work like this!
 
-<a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+<a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/cjmccaskill"><img src="https://www.learnenough.com/certificates/cjmccaskill/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
-This badge shows that I have completed the online course for [Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line).
+These badges show that I have completed the online course for [Learn Enough Dev Tutorials To Be Dangerous](https://www.learnenough.com/).
 
 # Hi there 👋
 
