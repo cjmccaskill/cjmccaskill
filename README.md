@@ -8,7 +8,7 @@ These badges show that I have completed the online courses for [Learn Enough Dev
 
 # Hi there 👋
 
-Let me start by introducing myself. I am a cheerful, energetic, and results-oriented Web Developer who possesses comprehensive experience, successfully meets and exceeds goals within remote team environments. Utilizing strong attention to detail on every line of code, every unit test, and every commit message. Demonstrated history communicating complex ideas to diverse technical and non-technical audiences. A lifelong learner with a growth mindset who is passionate about designing great user experiences and building genuinely great web applications. Meticulous self-starter with a strong work ethic who consistently meets deadlines while managing multiple projects.
+Let me start by introducing myself. I am a cheerful, energetic, and results-oriented Software Engineer who possesses comprehensive experience, successfully meets and exceeds goals within remote team environments. Utilizing strong attention to detail on every line of code, every unit test, and every commit message. Demonstrated history communicating complex ideas to diverse technical and non-technical audiences. A lifelong learner with a growth mindset who is passionate about designing great user experiences and building genuinely great applications. Meticulous self-starter with a strong work ethic who consistently meets deadlines while managing multiple projects.
 
 <!--
 **cjmccaskill/cjmccaskill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
