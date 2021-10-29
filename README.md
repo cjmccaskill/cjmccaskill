@@ -1,6 +1,6 @@
 # CJ McCaskill's Gitub Profile
 
-<a href="https://app.daily.dev/cjmccaskill"><img src="https://api.daily.dev/devcards/a65e8e1e83ab4bbfadf45d1c8d33b9e5.png?r=npw" width="400" alt="CJ McCaskill's Dev Card"/></a>
+<a href="https://app.daily.dev/cjmccaskill"><img src="https://api.daily.dev/devcards/a65e8e1e83ab4bbfadf45d1c8d33b9e5.png?r=pf0" width="400" alt="CJ McCaskill's Dev Card"/></a>
 
 Welcome to my profile! This includes examples of [Certificates of Completion](https://www.learnenough.com/certificates/cjmccaskill) from [Learn Enough](https://www.learnenough.com/). They work like this!
 
@@ -13,7 +13,6 @@ These badges show that I have completed the online courses for [Learn Enough Dev
 First and foremost, I’m a maker. I love building things with naivety, blissfully unaware of the real world. I dream of a life where everyone can do that with no repercussions. However, I’m also a realist. I understand that things change; customers call and want something different or add something else to the project, and you have to be ready for those changes and be willing to go with the flow.
 
 My current work focuses on building apps that will forever change the way people see the world and use the internet. I strive to make a difference in this world by shaking things up and leaving my mark on them.
-.
 
 - 🔭 Working on multiple frontend and backend project so follow along to see what I am creating. 
 
