@@ -17,8 +17,6 @@ My current work focuses on building apps that will forever change the way people
 - 🔭 Working on multiple frontend and backend project so follow along to see what I am creating. 
 
 <br>
-
-
 <br>
 
 ## Connect with me
