@@ -13,7 +13,7 @@ First and foremost, I’m a maker. I love building things with naivety, blissful
 My current work focuses on building apps that will forever change the way people see the world and use the internet. I strive to make a difference in this world by shaking things up and leaving my mark on them.
 .
 
-- 🔭 Working on multiple frontend and backend project using React/Nextjs and Nodejs
+- 🔭 Working on multiple frontend and backend project so follow along to see what I am creating. 
 
 <br>
 
